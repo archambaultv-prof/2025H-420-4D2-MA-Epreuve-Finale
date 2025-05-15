@@ -1,5 +1,7 @@
 # Épreuve finale - 420-4D2-MA - Hiver 2025
 
+**Note pour la postérité : l'examen était trop long pour 3 heures, plusieurs élèves n'ont pas fini.**
+
 - **Durée** : 3 heures.
 - **Modalité** : Individuelle, en classe sous la supervision de l’enseignant.
 - **Documentation** : Notes de cours, vos travaux pratiques, documentation officielle des différentes bibliothèques utilisées.
